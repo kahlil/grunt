@@ -2,7 +2,7 @@
 Grunt is a task-based command line build tool for JavaScript projects.
 
 ## Introduction
-Check out our [getting started guide] for a primer on how to use grunt.
+Check out our [getting started guide](/gruntjs/grunt/wiki/Getting-started) for a primer on how to use grunt.
 
 ## Documentation
 Take a look at our [wiki] for all the things.
